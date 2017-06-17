@@ -1,4 +1,2 @@
-学习http://www.imooc.com/learn/563课程后编写而成
-对百度百科URL更新后的爬取
-十分简单，入门小爬虫
-感谢课程分享。
+使用python语言
+基于Beautifulsoup,requests,re库编写而成的爬虫程序
